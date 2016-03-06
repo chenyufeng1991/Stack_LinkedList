@@ -57,7 +57,7 @@ void pop(Node *pNode){
     }
 }
 
-//打印带头结点的单链表
+//打印栈元素
 void printStack(Node *pNode){
 
     if (!isEmpty(pNode)) {
